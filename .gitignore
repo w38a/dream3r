@@ -1,0 +1,4 @@
+*.scratch*
+*.png
+*.ico
+.idea/
